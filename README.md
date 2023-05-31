@@ -21,7 +21,7 @@ How to use =>
 
 **Go to https://platform.openai.com/docs/api-reference/introduction and obtain the Open AI API key for the ChatGPT command.**
 
-**Go to /Handlers then, handleCommands.js and replace fill in the clientId (The bot's client ID), and guildId (Test Server's ID).**
+**Go to /Handlers then, handleCommands.js and fill in the clientId (The bot's client ID), and guildId (Test Server's ID).**
 
 **Install all the packages included in the package.json file.**
 
