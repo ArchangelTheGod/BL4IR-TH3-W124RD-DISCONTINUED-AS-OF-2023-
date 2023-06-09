@@ -4,15 +4,22 @@ My "Flagship" Discord bot!
 
 Key Features:
 Economy
+
 Fun Commands
+
 Anti-Crash
+
 Shutdown Command
+
 Leveling system
+
 Multi-Guilded
+
 Database Compatible
 
 
 How to use =>
+
 **Install Node.js**
 
 **Install Visual Studio Code**
@@ -28,6 +35,7 @@ How to use =>
 **Install all the packages included in the package.json file.**
 
 **Go to the .env file and replace the required details. e.g: Bot Token, Mongo DB key, Heroku Worker, Etc.**
+
 **(Optional) Go to the config.json file and include the MongoDB key, Bot Token, and OpenAI API Key.**
 
 Everything bolded is **REQUIRED** for the bot to function properly.
