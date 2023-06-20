@@ -62,4 +62,5 @@ Everything bolded is **REQUIRED** for the bot to function properly.
 **Contacts:**
 
 -Discord: archangelthegod (AxxlJGR#7907)
+
 -Twitter: @Axxl_Gaming
