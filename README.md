@@ -11,7 +11,7 @@ Anti-Crash
 
 Shutdown Command
 
-Leveling system
+Levelling system
 
 Multi-Guilded
 
@@ -40,3 +40,20 @@ How to use =>
 **(Optional) Go to the config.json file and include the MongoDB key, Bot Token, and OpenAI API Key.**
 
 Everything bolded is **REQUIRED** for the bot to function properly.
+
+
+=======================================================================================
+
+Useful APIs used:
+
+discord-gamecord
+
+chalk
+
+dotenv
+
+nodefetch
+
+openai
+
+mongodb
