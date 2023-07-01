@@ -4,6 +4,10 @@ My "Flagship" Discord bot!
 
 Key Features:
 
+-Automod Features
+
+-ChatGPT & Image Generator command
+
 -Economy
 
 -Fun Commands
