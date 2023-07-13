@@ -6,9 +6,7 @@ Key Features:
 
 -Automod Features
 
--ChatGPT & Image Generator command
-
--Economy
+-ChatGPT & Image Generator command(s)
 
 -Fun Commands
 
@@ -65,6 +63,6 @@ Everything bolded is **REQUIRED** for the bot to function properly.
 
 **Contacts:**
 
--Discord: archangelthegod (AxxlJGR#7907)
+-Discord: @archangelthegod (AxxlJGR#7907)
 
 -Twitter: @Axxl_Gaming
