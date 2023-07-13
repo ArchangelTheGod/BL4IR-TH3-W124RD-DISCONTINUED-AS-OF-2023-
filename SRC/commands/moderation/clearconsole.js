@@ -6,7 +6,7 @@ module.exports = {
     .setName('clear-console')
     .setDescription('Clears the bot\'s console!'),
      async execute(interaction) {
-        if (interaction.user.id != "782357589723578409") return;
+        if (interaction.user.id != "YOUR USER ID HERE") return;
         else{
             const embed = new EmbedBuilder()
             .setColor("Blue")
