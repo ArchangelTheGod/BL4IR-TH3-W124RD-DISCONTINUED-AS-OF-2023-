@@ -18,6 +18,11 @@ Key Features:
 
 -Database Compatible
 
+-Fully Customizable
+
+-100% Free!*
+*(Only if you're not paying for your own hosting service.)
+
 ===========================================================================
 
 How to use =>
