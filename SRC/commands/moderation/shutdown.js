@@ -10,7 +10,7 @@ module.exports = {
         .setRequired(false)),
 
      async execute(interaction) {
-        if (interaction.user.id != "782357589723578409") return;
+        if (interaction.user.id != "YOUR USER ID HERE") return;
         else{
 
             const reason = interaction.options.getString("reason");
