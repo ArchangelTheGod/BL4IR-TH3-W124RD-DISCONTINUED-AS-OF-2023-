@@ -70,4 +70,4 @@ Everything bolded is **REQUIRED** for the bot to function properly.
 
 -Discord: @archangelthegod (AxxlJGR#7907)
 
--Twitter: @Axxl_Gaming
+-Twitter: @archyarchyangool
