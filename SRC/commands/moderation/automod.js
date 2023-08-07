@@ -1,5 +1,4 @@
 const { EmbedBuilder, SlashCommandBuilder, PermissionsBitField } = require('discord.js');
-const accountSchema = require('../../Models/Account');
 
 module.exports = {
     data: new SlashCommandBuilder()
