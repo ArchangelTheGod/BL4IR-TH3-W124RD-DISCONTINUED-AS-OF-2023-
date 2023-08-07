@@ -154,7 +154,7 @@ module.exports = {
         const helpembedpage4 = new EmbedBuilder()
         .setColor("Red")
         .setDescription("**Source Code**")
-        .addFields({ name: "Link:", value: ""})
+        .addFields({ name: "Link:", value: "https://github.com/ArchangelTheGod/BL4IR-TH3-W124RD/tree/main"})
 
         const send = await interaction.reply({
             embeds: [helpembedhome],
