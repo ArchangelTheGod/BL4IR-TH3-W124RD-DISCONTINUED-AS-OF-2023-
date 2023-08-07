@@ -71,3 +71,10 @@ Everything bolded is **REQUIRED** for the bot to function properly.
 -Discord: @archangelthegod (AxxlJGR#7907)
 
 -Twitter: @archyarchyangool
+
+===========================================================================
+
+**Recommended Hosts:** 
+
+-PylexNodes: https://client.pylexnodes.net/dashboard
+-Daki.cc: https://daki.cc
