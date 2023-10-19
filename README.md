@@ -18,6 +18,8 @@ Key Features:
 
 -Database Compatible
 
+-Customizable Bot-usage Blacklist (Blacklist users from using the bot)
+
 -Fully Customizable
 
 -100% Free!*
