@@ -1,6 +1,16 @@
 # BL4IR-TH3-W124RD (DISCONTINUED AS OF 2023)
 ### My "Flagship" Discord bot!
 
+## Foreword:
+The project is no longer being updated anymore due to personal reasons and personal preference.
+This doesn't mean I won't stop creating bots. I will launch a new bot with a new sourcecode when ``Discord.js`` V15 comes out or when
+I'm no longer busy in school. The sourcecode will always ``100%`` be free and never will be locked behind a paywall, free for
+everyone. ~~SPOILERS: The bot's name will probably be Hyperion or Paladin, idk.~~
+
+Until next time,
+
+ArchangelTheGod
+
 
 ## Key Features:
 - Automod Features
